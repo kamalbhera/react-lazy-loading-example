@@ -1,3 +1,2 @@
-# react-nmm9ah
+# React-lazy loading Example
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-nmm9ah)
